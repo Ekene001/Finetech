@@ -398,9 +398,9 @@ nav box-icon{
 
 }
 
-..styled-card .card-content{
+.styled-card .card-content{
     height: 100%;
     overflow: scroll;
     scroll-behavior: smooth;
-    s;
+    
 }
